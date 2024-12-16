@@ -35,4 +35,4 @@
   </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8&section=footer)
