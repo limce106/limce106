@@ -2,7 +2,7 @@
 
 <div align="center">
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=shadow_blue)
 </div>
 
 ---
