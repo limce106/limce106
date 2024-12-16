@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/UnrealEngine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />
 <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=#FFFFFF" />
-<img src="https://img.shields.io/badge/C++-E34F26.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
 </div>
 
 <h3 align="center"> Tools </h3>
