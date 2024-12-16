@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
 </div>
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio-purple.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
 <a href="https://velog.io/@limce">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
