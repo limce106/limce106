@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-purple.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio-purple.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <div align="center">
