@@ -11,7 +11,7 @@
 </br>
 
 <h3 align="left"><b>🛠️ Tech Stack</b></h3>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
