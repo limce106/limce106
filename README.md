@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=24&height=300&section=header&text=Chaeeun's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=300&section=header&text=Chaeeun's%20GitHub&fontSize=90)
 
 <div align="center">
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=holi)
 </div>
 
 ---
