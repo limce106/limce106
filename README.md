@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=catpuccin_latte)
 
 <div align="left">
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio-purple.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <div align="left">
