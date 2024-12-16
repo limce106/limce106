@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=vue)
 
 <img src="https://img.shields.io/badge/unrealengine-#0E1128?style=flat-square&logo=html5&logoColor=#0E1128"/>
-<img src="https://img.shields.io/badge/unrealengine-#0E1128?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/unrealengine?style=for-the-badge&logo=unrealengine&logoColor=0E1128" />
