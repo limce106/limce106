@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chaeeun's GitHub%20render&fontSize=90" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=onedark)
 
 ---
@@ -44,7 +46,3 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=limce106)](https://solved.ac/limce106)
 </div>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limce106&layout=compact)
