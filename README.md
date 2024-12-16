@@ -33,3 +33,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limce106)](https://solved.ac/limce106)
