@@ -39,5 +39,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=limce106)](https://solved.ac/limce106)
+</div>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
