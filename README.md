@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8&height=300&section=header&text=Chaeeun's%20GitHub&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 
 <div align="center">
-    
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=shadow_blue)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=limce106)](https://solved.ac/limce106)
 </div>
 
 ---
@@ -25,10 +27,4 @@
 <a href="https://velog.io/@limce">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-</div>
-
-<div align="center">
-    
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=limce106)](https://solved.ac/limce106)
 </div>
