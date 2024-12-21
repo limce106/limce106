@@ -6,6 +6,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=shadow_blue)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=limce106)](https://solved.ac/limce106)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimce106%2Fhit-counter&count_bg=%2393F7F4&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 </br>
