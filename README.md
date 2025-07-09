@@ -3,7 +3,7 @@
 <h3 align="left"><b>🏅 Stat</b></h3>
 <div align="left">
 
-![Chaeeun's github stats](https://github-readme-stats.vercel.app/api?username=limce106)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=limce106&show_icons=true&theme=shadow_blue)
 </div>
 
 </br>
